@@ -358,8 +358,7 @@ nav h6 span{
    padding: 50px 0px 50px 0px;
    
 }
-/* Trong file style.css hoặc trong thẻ <style> của index.html */
-#gameIframe {
+#idgame {
   overflow: hidden; /* Ngăn không cho iframe cuộn */
 }
 
