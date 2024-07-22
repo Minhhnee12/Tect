@@ -322,7 +322,7 @@ nav h6 span{
   color: #fff; /* Màu của phần tiến trình */
   width: 0%; /* Ban đầu, phần tiến trình có chiều rộng 0 */
   overflow: hidden;
-  transition: width 1s ease; /* Hiệu ứng chuyển động */
+  transition: width 11s ease; /* Hiệu ứng chuyển động */
 }
 
 .javascript { background-color: #3498db; width: 50%; }
