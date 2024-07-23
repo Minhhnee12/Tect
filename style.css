@@ -151,15 +151,6 @@ nav h6 span{
     pointer-events: none;
     z-index: -1;
 }
-.header #dotsCanvas{
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-    pointer-events: none;
-    z-index: -1;
-}
 .hero-content {
     max-width: 450px;
     display: flex;
